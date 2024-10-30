@@ -1,25 +1,25 @@
-# PDC Finance 🌍🚀
+# Blockpeer 🌍🚀
 
-Welcome to **PDC Finance**, the starting point of what has evolved into the [Blockpeer](https://www.blockpeer.finance/) ecosystem. Originally a hackathon project, PDC Finance was built with a mission to unlock future cash flow financing for businesses through tokenized assets and has since earned recognition across multiple hackathons and grants. Along the way, PDC Finance won awards at the **Moralis x Google Hackathon**, **Chainlink Spring Hackathon**, **JP Morgan Digital Identity Hackathon**, as well as grants from **Gelato** and **Unstoppable Domains**. These early successes provided the foundation for what is now an innovative suite of blockchain solutions under Blockpeer.
+Welcome to **Blockpeer** on GitHub! Blockpeer began as **PDC Finance**, an ambitious hackathon project focused on financing future cash flows via tokenized assets. Recognized across the industry, PDC Finance secured awards from the **Moralis x Google Hackathon**, **Chainlink Spring Hackathon**, **JP Morgan Digital Identity Hackathon**, as well as grants from **Gelato** and **Unstoppable Domains**. This early vision laid the foundation for today’s Blockpeer ecosystem, transforming trade finance with blockchain innovation.
 
-## From Hackathon Vision to Industry Solution
+## The Evolution from PDC Finance to Blockpeer
 
-PDC Finance’s core components have evolved into **Blockpeer Trade** and **Blockpeer Cliq**, two powerful modules within the Blockpeer platform that continue to build on the project’s original mission of transforming trade finance through blockchain technology.
+PDC Finance’s core components have evolved into **Blockpeer Trade** and **Blockpeer Cliq**—two essential modules under Blockpeer that continue the mission of modernizing trade finance and asset tokenization.
 
-### Blockpeer Trade: Tokenizing Trade Assets 📄➡️🔗
+### Blockpeer Trade: Tokenizing Trade Documents 📄➡️🔗
 
-Expanding on PDC Finance’s approach to financing future cash flows, Blockpeer Trade enables businesses to **tokenize trade assets**—including e-invoices, bills of lading, promissory notes, and more. With the TradeTrust framework, Blockpeer Trade provides MLETR-compliant documentation, bringing security, compliance, and transparency to the world of global trade.
+Building on PDC Finance’s original financing structure, Blockpeer Trade enables businesses to **tokenize key trade documents** such as e-invoices, bills of lading, and promissory notes. Compliant with MLETR and leveraging the TradeTrust framework, Blockpeer Trade supports secure, transparent, and compliant documentation to streamline global trade.
 
-### Blockpeer Cliq: Financing for Tokenized Trade Documents 💸🔗
+### Blockpeer Cliq: Trade Finance Marketplace 💸🔗
 
-With roots in PDC Finance’s financing mechanisms, Blockpeer Cliq connects tokenized assets to investors through a **Trade Finance Marketplace**. This module allows businesses to utilize tokenized trade documents as collateral, offering faster financing options and a wider range of investors, including crypto-native financiers. Both stablecoin and fiat options are available to meet varied business needs.
+Blockpeer Cliq extends the financing vision, providing a **Trade Finance Marketplace** for tokenized assets. This module allows businesses to access funding using tokenized trade documents as collateral, connecting with a broad range of investors and allowing for both stablecoin and fiat options, expediting financing options for SMEs and larger entities alike.
 
-### Blockpeer Books: Integrated Digital and Fiat Accounting 📊💰
+### Blockpeer Books: Digital and Fiat Accounting 📊💰
 
-Completing the Blockpeer suite, **Blockpeer Books** offers a seamless accounting platform for digital assets and fiat transactions. It allows businesses to manage multi-asset ledgers, connect with crypto exchanges, and conduct traditional accounting in a unified, modern system.
+Completing the Blockpeer suite, **Blockpeer Books** integrates comprehensive accounting capabilities for digital assets and fiat currencies. It empowers businesses with multi-asset management, exchange integrations, and traditional accounting tools, all in one unified platform.
 
-## Join Us in the Evolution of Trade Finance 🌐
+## Join Blockpeer in Transforming Finance 🌐
 
-PDC Finance's journey from hackathon to the robust [Blockpeer](https://www.blockpeer.finance/) platform showcases innovation in the evolving landscape of trade finance. Explore our repositories, join our development journey, and contribute to building a more open, accessible, and efficient trade finance ecosystem.
+What began as PDC Finance has evolved into the robust [Blockpeer](https://www.blockpeer.finance/) platform. Join us on our journey to create a more open, efficient, and accessible financial ecosystem.
 
-**Let’s build the future of finance, together.**
+**Let’s shape the future of trade finance together!**
